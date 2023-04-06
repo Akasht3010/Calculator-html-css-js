@@ -12,6 +12,7 @@ html,body{
     border: 2px solid black;
     border-radius: 9px;
     cursor: pointer;
+    /* border: 9px solid red ; */
 }
 
 .row{
